@@ -1,2 +1,2 @@
 # Pygame-Course
-Smashing the Chimp: https://www.pygame.org/docs/tut/chimp.py.html
+A place where all projects be found as well as their references for more information
