@@ -20,6 +20,6 @@ while running:
         if event.type == pg.QUIT:
             running = False
 
-    pg.display.flip() #update screen all the time
+    pg.display.update() #update screen all the time
 
 pg.quit()
