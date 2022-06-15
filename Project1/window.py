@@ -9,10 +9,6 @@ pg.display.set_caption('WindowGoBrr')
 
 screen.fill(background_color)
 
-
-pg.display.flip()
-
-
 running = True
 
 while running:
