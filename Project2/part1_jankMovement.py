@@ -12,7 +12,7 @@ character = pg.image.load(filePath)
 
 x = 500
 y = 500
-velocity = 12
+velocity = 12 #change to change how much the bunny moves by each press
 
 running = True
 while running:
