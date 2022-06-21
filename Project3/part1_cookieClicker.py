@@ -1,3 +1,6 @@
+#credits to PSpeiser for a lot of the code
+
+
 import os
 import sys
 import pygame as pg
