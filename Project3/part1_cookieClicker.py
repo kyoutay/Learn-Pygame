@@ -1,4 +1,4 @@
-#credits to PSpeiser for a lot of the code
+#credits to PSpeiser for a lot of the code https://github.com/PSpeiser/cookieclicker 
 
 
 import os
