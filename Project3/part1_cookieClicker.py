@@ -14,7 +14,7 @@ class shop: #only ant and shop are classes since we need multiple ants and multi
         self.cps_each = base_cps_each
 
     def draw(self, surface):
-        pg.draw.rect(surface, pg.Color('gray'), self.rect ,0) # button background color
+        pg.draw.rect(surface, pg.Color('gray'), self.rect) # button background color
         text_surface = font.render('Level: ' + str(self.level) + ' ' + self.text + ' $' + str(int(self.price())), True, pg.Color('black'))
         text_rect = text_surface.get_rect()
         text_rect.topleft = (self.rect.left +10, self.rect.top + self.rect.height * 0.25)
