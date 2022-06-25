@@ -253,7 +253,7 @@ while running:
         game_over = False
         HEALTHPOINTS = 100
         ants = pg.sprite.Group()#ants sprite group created here in the game_over if statement. ants is essentially a list to control our ant objects of the ant class
-        for i in range(8): #spawn 8 ants
+        for i in range(8): #spawn 8 ants. There are always 8 ants at any time on the screen since a new one is spawned when one dies (newAnt()) and one's that go off screen are respawned(update())
             newAnt()
 
     for event in pg.event.get():
