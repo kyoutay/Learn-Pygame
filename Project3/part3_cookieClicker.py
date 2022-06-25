@@ -303,7 +303,7 @@ while running:
     screen.blit(text_surface, text_rect)
 
     ants.update()
-    ants.draw(screen)
+    ants.draw(screen) # we made the .draw() method, it's part of the ant class
     hiding()
     calculate_cps()
     update_cookies()
