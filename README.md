@@ -1,4 +1,5 @@
 [the course](https://drive.google.com/file/d/1acveFbzJFk7jAJkZcVVuh_wM3wkNQois/view?usp=sharing)
+[syllabus](https://drive.google.com/file/d/1CuXib_Ur0Szkr7l9z_T5PQXK95lSavNB/view?usp=sharing)
 
 # Learn Pygame
 Project 1: [Pygame drawing,button, and sounds program](https://youtu.be/L0sDTidXxbY) 
