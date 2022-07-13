@@ -1,4 +1,4 @@
-[the course](https://drive.google.com/file/d/1acveFbzJFk7jAJkZcVVuh_wM3wkNQois/view?usp=sharing)
+[the course](https://drive.google.com/file/d/1acveFbzJFk7jAJkZcVVuh_wM3wkNQois/view?usp=sharing) <br/>
 [syllabus](https://drive.google.com/file/d/1CuXib_Ur0Szkr7l9z_T5PQXK95lSavNB/view?usp=sharing)
 
 # Learn Pygame
